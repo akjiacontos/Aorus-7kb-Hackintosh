@@ -1,23 +1,3 @@
-
-https://github.com/user-attachments/assets/9364c558-da4e-4cc9-bd4c-201d93284ec6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Efi folder with the latest version to date of OpenCore Bootloader 
 
 Thinked to be runned on Mac OS Sonoma 14.7.4 or lower.
@@ -40,3 +20,8 @@ Please if you plan to use this build please generate and replace serials with pr
 to avoid problems with papasito Apple.
 
 Special mention and thanks to my patience <3
+
+
+
+https://github.com/user-attachments/assets/9364c558-da4e-4cc9-bd4c-201d93284ec6
+-Spoiler of success-
